@@ -1,52 +1,104 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cześć!+Jestem+Agata+(GitexAga);Junior+Frontend+Developer✨;Uwielbiam+tworzyć+piękne+strony!💖&center=true&size=24&color=C77DFF">
-</p>
+<h1 align="center">Agata Bujak</h1>
+<h3 align="center">Front-End Developer • Kreatywne Projekty na Zamówienie</h3>
 
 ---
 
-# 🌸 Cześć! Jestem Agata 💗
-
-Jestem początkującą Frontend Developer i tworzę estetyczne, nowoczesne projekty.  
-Uwielbiam pastelowe kolory, animacje i kobiece style w połączeniu z technologią.  
-Obecnie buduję swoje portfolio i rozwijam się w kierunku frontendu ✨
+## 🧑‍💼 O mnie
+Specjalizuję się w tworzeniu **profesjonalnych projektów na zamówienie** — od wizytówek i portfolio, po strony firmowe i elementy UI.  
+Łączę estetykę, prostotę i nowoczesne technologie, tworząc projekty gotowe do wykorzystania w biznesie lub rekrutacji.
 
 ---
 
-# 💻 Technologie, których używam
+## 💼 Co tworzę dla klientów?
+
+### 📝 **1. Profesjonalne CV (PDF/HTML)**
+- nowoczesne układy CV  
+- wersje minimalistyczne, pastelowe lub biznesowe  
+- CV dla każdej branży  
+- personalizowane pod rekrutera  
+- gotowe do wydruku lub wysyłki
+
+---
+
+### 🌐 **2. Wizytówki & Mini Strony**
+- osobiste wizytówki HTML/CSS  
+- strony „About Me”  
+- link-in-bio  
+- wizytówki premium dla freelancerów  
+
+---
+
+### 🏢 **3. Strony firmowe**
+- usługi  
+- sekcja „O nas” i „Kontakt”  
+- cennik  
+- galeria  
+- formularze kontaktowe  
+
+---
+
+### 🍽 **4. Menu stron dla restauracji**
+- nowoczesne layouty  
+- cenniki i kategorie  
+- grafiki potraw  
+- animowane karty menu  
+
+---
+
+### 🎨 **5. Komponenty UI • Przyciski • Animacje**
+- pastel buttons  
+- premium buttons  
+- animowane galerie  
+- sekcje hero  
+- gotowe zestawy UI
+
+---
+
+### 💼 **6. Portfolio zawodowe**
+- portfolio dla programistów  
+- portfolio dla fryzjerek, stylistek, kosmetyczek  
+- portfolio artystyczne  
+- portfolio firmowe  
+
+---
+
+## 🧰 Technologie
 <p>
-  <img src="https://img.shields.io/badge/HTML5-FB7EDB?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-C77DFF?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-FDE2FF?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-EFB0FF?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-FDB0C0?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-232323?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-444444?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Python-555555?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-222222?style=for-the-badge&logo=git&logoColor=orange"/>
 </p>
 
 ---
 
-# 🚀 Moje projekty
-💗 **1. Wizytówka w HTML & CSS**  
-Pastelowa, animowana, nowoczesna wizytówka, którą tworzę w portfolio.  
-Repozytorium wkrótce będzie dostępne!
+## 📦 Przykładowe projekty
+*(Sekcja przygotowana na Twoje przyszłe repozytoria — będziemy je razem tworzyć)*
 
-💗 **2. Kolejne projekty w przygotowaniu…**  
-Buduję portfolio i codziennie uczę się nowych rzeczy ✨
+### 🔹 CV Business Template  
+Nowoczesne CV do pobrania lub personalizacji.
 
----
+### 🔹 Strona firmowa „Beauty Studio”  
+Profesjonalna mini strona dla freelancerki.
 
-# 🎯 Moje cele
-- stworzyć 3–5 pięknych projektów frontendowych  
-- nauczyć się React  
-- rozwijać design i UI  
-- postawić swoje portfolio na GitHub Pages  
-- regularnie commitować  
+### 🔹 Menu restauracyjne „FreshFood”  
+Layout premium dla restauracji / food trucków.
+
+### 🔹 Portfolio Junior Developer  
+Idealne pod rekrutację.
 
 ---
 
-# 📬 Kontakt
-[![GitHub](https://img.shields.io/badge/GitHub-GitexAga-8A2BE2?style=for-the-badge&logo=github)](https://github.com/GitexAga)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Agata_Bujak-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/agata-bujak-9a8424392/)  
+## 📬 Kontakt — zamów projekt
+Chcesz zamówić CV, wizytówkę albo mini stronę?
+
+**💼 LinkedIn:**  
+[Agata Bujak](https://www.linkedin.com/in/agata-bujak-9a8424392/)  
+
+**💻 GitHub:**  
+[GitexAga](https://github.com/GitexAga)
 
 ---
 
-### 💕 Dziękuję za odwiedzenie mojego profilu!  
-### Tworzę i uczę się każdego dnia ✨
+<h3 align="center">Tworzę – Projektuję – Pomagam klientom budować wizerunek online 💼✨</h3>
